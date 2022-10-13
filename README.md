@@ -1,1 +1,2 @@
-# TudouCollection
+# 智慧实习云平台模拟打卡
+打开shixi文件夹，查看文档说明，采取Fiddler获取token的方式打卡，目前获取一次可以持续打卡多久还真没试过；
